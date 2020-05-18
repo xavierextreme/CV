@@ -26,6 +26,9 @@ h1 {
 	left: 400px;
 	margin: 0 auto 0 auto;
 }
+.mountain-pic {
+	width: 99.5%;
+}
 .bottom-cloud {
   position: relative;
 	right: 400px;
@@ -49,9 +52,9 @@ body {
 		font-family: 'Merriweather Sans', sans-serif;
 		color: #00334e;
 		}
-		p {
-				line-height: 2;
-		}
+p {
+		line-height: 2;
+}
 
 .chris-pic {
 	border-radius: 100px;
